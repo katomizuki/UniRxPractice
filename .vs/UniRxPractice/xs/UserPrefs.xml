@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{FA6A0A64-4D52-2BC3-D61E-9AA7F07DBF96}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/DownloadTexture.cs">
+    <Files>
+      <File FileName="Assets/Scripts/DownloadTexture.cs" Line="8" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="be7b0af4-df00-4bc5-a649-4009c45a625b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
