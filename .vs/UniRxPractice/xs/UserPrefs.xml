@@ -1,7 +1,8 @@
 ﻿<Properties StartupConfiguration="{FA6A0A64-4D52-2BC3-D61E-9AA7F07DBF96}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/DownloadTexture.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/DownloadTextureUniTask.cs">
     <Files>
-      <File FileName="Assets/Scripts/DownloadTexture.cs" Line="8" Column="28" />
+      <File FileName="Assets/Scripts/DownloadTexture.cs" Line="20" Column="31" />
+      <File FileName="Assets/Scripts/DownloadTextureUniTask.cs" Line="5" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />

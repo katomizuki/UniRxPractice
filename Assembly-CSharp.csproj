@@ -57,6 +57,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets/Scripts/DownloadTexture.cs" />
+    <Compile Include="Assets/Scripts/DownloadTextureUniTask.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -766,6 +767,26 @@
     <ProjectReference Include="UniRx.csproj">
       <Project>{24D38967-A91C-8E10-9356-BBB74084D75C}</Project>
       <Name>UniRx</Name>
+    </ProjectReference>
+    <ProjectReference Include="UniTask.TextMeshPro.csproj">
+      <Project>{19063A4F-6216-0DED-DF43-C8CE9F12C66C}</Project>
+      <Name>UniTask.TextMeshPro</Name>
+    </ProjectReference>
+    <ProjectReference Include="UniTask.Addressables.csproj">
+      <Project>{8DA1342B-5996-36DB-8418-4D638E2CE2BD}</Project>
+      <Name>UniTask.Addressables</Name>
+    </ProjectReference>
+    <ProjectReference Include="UniTask.DOTween.csproj">
+      <Project>{C9ECBE87-3EA2-D8FE-AE82-32F3BC87A469}</Project>
+      <Name>UniTask.DOTween</Name>
+    </ProjectReference>
+    <ProjectReference Include="UniTask.Linq.csproj">
+      <Project>{3D51DCF4-631D-1AA1-7E81-33D18E8FC61A}</Project>
+      <Name>UniTask.Linq</Name>
+    </ProjectReference>
+    <ProjectReference Include="UniTask.csproj">
+      <Project>{DEE42BDE-46A0-BC88-E6B1-81B2B740B431}</Project>
+      <Name>UniTask</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
