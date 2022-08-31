@@ -356,8 +356,11 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
+"Assets/Scripts/CountDownEventProvider.cs"
 "Assets/Scripts/DownloadTexture.cs"
 "Assets/Scripts/DownloadTextureUniTask.cs"
+"Assets/Scripts/ObserverEventComponent.cs"
+"Assets/Scripts/PrintLogObserver.cs"
 -langversion:9.0
 
 /deterministic

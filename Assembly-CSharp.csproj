@@ -58,6 +58,9 @@
   <ItemGroup>
     <Compile Include="Assets/Scripts/DownloadTexture.cs" />
     <Compile Include="Assets/Scripts/DownloadTextureUniTask.cs" />
+    <Compile Include="Assets/Scripts/PrintLogObserver.cs" />
+    <Compile Include="Assets/Scripts/CountDownEventProvider.cs" />
+    <Compile Include="Assets/Scripts/ObserverEventComponent.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
