@@ -61,6 +61,8 @@
     <Compile Include="Assets/Scripts/PrintLogObserver.cs" />
     <Compile Include="Assets/Scripts/CountDownEventProvider.cs" />
     <Compile Include="Assets/Scripts/ObserverEventComponent.cs" />
+    <Compile Include="Assets/Scripts/MySubject.cs" />
+    <Compile Include="Assets/Scripts/ObserverEventComponent2.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

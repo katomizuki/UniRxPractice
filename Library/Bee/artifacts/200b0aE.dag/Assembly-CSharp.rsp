@@ -359,7 +359,9 @@
 "Assets/Scripts/CountDownEventProvider.cs"
 "Assets/Scripts/DownloadTexture.cs"
 "Assets/Scripts/DownloadTextureUniTask.cs"
+"Assets/Scripts/MySubject.cs"
 "Assets/Scripts/ObserverEventComponent.cs"
+"Assets/Scripts/ObserverEventComponent2.cs"
 "Assets/Scripts/PrintLogObserver.cs"
 -langversion:9.0
 
