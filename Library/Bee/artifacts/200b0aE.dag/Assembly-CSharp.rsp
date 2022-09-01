@@ -356,13 +356,19 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
+"Assets/Scripts/AddSample.cs"
+"Assets/Scripts/CompareSchdulers.cs"
 "Assets/Scripts/CountDownEventProvider.cs"
+"Assets/Scripts/CurrentSubjectSample.cs"
 "Assets/Scripts/DownloadTexture.cs"
 "Assets/Scripts/DownloadTextureUniTask.cs"
+"Assets/Scripts/MessageSample.cs"
 "Assets/Scripts/MySubject.cs"
+"Assets/Scripts/ObserveOnSample.cs"
 "Assets/Scripts/ObserverEventComponent.cs"
 "Assets/Scripts/ObserverEventComponent2.cs"
 "Assets/Scripts/PrintLogObserver.cs"
+"Assets/Scripts/TimerSample.cs"
 -langversion:9.0
 
 /deterministic
