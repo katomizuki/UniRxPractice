@@ -57,18 +57,30 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets/Scripts/DownloadTextureUniTask.cs" />
+    <Compile Include="Assets/Scripts/ObserveOnSample.cs" />
     <Compile Include="Assets/Scripts/DownloadTexture.cs" />
+    <Compile Include="Assets/Scripts/CurrentSubjectSample.cs" />
+    <Compile Include="Assets/Scripts/CompareSchdulers.cs" />
     <Compile Include="Assets/Scripts/ObserverEventComponent.cs" />
     <Compile Include="Assets/Scripts/PrintLogObserver.cs" />
+    <Compile Include="Assets/Scripts/TimerSample.cs" />
+    <Compile Include="Assets/Scripts/MessageSample.cs" />
     <Compile Include="Assets/Scripts/CountDownEventProvider.cs" />
     <Compile Include="Assets/Scripts/MySubject.cs" />
-    <Compile Include="Assets/Scripts/ObserverEventComponent2.cs" />
-    <Compile Include="Assets/Scripts/MessageSample.cs" />
     <Compile Include="Assets/Scripts/AddSample.cs" />
-    <Compile Include="Assets/Scripts/CurrentSubjectSample.cs" />
-    <Compile Include="Assets/Scripts/ObserveOnSample.cs" />
-    <Compile Include="Assets/Scripts/TimerSample.cs" />
-    <Compile Include="Assets/Scripts/CompareSchdulers.cs" />
+    <Compile Include="Assets/Scripts/ObserverEventComponent2.cs" />
+    <Compile Include="Assets/Scripts/SubjectSample.cs" />
+    <Compile Include="Assets/Scripts/BehaviorSubjectSample.cs" />
+    <Compile Include="Assets/Scripts/ReplaySubjectSample.cs" />
+    <Compile Include="Assets/Scripts/AsyncSubject.cs" />
+    <Compile Include="Assets/Scripts/PlayerTextureChanger.cs" />
+    <Compile Include="Assets/Scripts/ReactivePropertySample.cs" />
+    <Compile Include="Assets/Scripts/ReactivePropertySample2.cs" />
+    <Compile Include="Assets/Scripts/ReactivePropertySample3.cs" />
+    <Compile Include="Assets/Scripts/ReactivePropertyOnInspectorWindow.cs" />
+    <Compile Include="Assets/Scripts/ReadOnlyReactivePropertySample.cs" />
+    <Compile Include="Assets/Scripts/ReactiveCollectionSample.cs" />
+    <Compile Include="Assets/Scripts/ReactiveDictionarySample.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
