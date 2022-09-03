@@ -1,13 +1,12 @@
 ﻿<Properties StartupConfiguration="{FA6A0A64-4D52-2BC3-D61E-9AA7F07DBF96}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ReactiveDictionarySample.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ObserveStateMachineSample.cs">
     <Files>
-      <File FileName="Assets/Scripts/ReactiveCollectionSample.cs" Line="30" Column="33" />
-      <File FileName="Assets/Scripts/ReactiveDictionarySample.cs" Line="3" Column="19" />
+      <File FileName="Assets/Scripts/ObserveStateMachineSample.cs" Line="18" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="fffa5709-5d3e-4625-b1ea-8e0f6e38b491" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a40e1413-54df-4293-a875-8f1940a8f741" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

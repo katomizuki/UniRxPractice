@@ -56,9 +56,7 @@
     <Analyzer Include="/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/MonoDevelop.Unity/Analyzers/Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets/Scripts/DownloadTextureUniTask.cs" />
     <Compile Include="Assets/Scripts/ObserveOnSample.cs" />
-    <Compile Include="Assets/Scripts/DownloadTexture.cs" />
     <Compile Include="Assets/Scripts/CurrentSubjectSample.cs" />
     <Compile Include="Assets/Scripts/CompareSchdulers.cs" />
     <Compile Include="Assets/Scripts/ObserverEventComponent.cs" />
@@ -81,6 +79,18 @@
     <Compile Include="Assets/Scripts/ReadOnlyReactivePropertySample.cs" />
     <Compile Include="Assets/Scripts/ReactiveCollectionSample.cs" />
     <Compile Include="Assets/Scripts/ReactiveDictionarySample.cs" />
+    <Compile Include="Assets/Scripts/ReturnSample.cs" />
+    <Compile Include="Assets/Scripts/ObservableRangeSample.cs" />
+    <Compile Include="Assets/Scripts/ObservableRepeatSample.cs" />
+    <Compile Include="Assets/Scripts/ObservableThrowSample.cs" />
+    <Compile Include="Assets/Scripts/EmptySample.cs" />
+    <Compile Include="Assets/Scripts/NeverSample.cs" />
+    <Compile Include="Assets/Scripts/CreateSample.cs" />
+    <Compile Include="Assets/Scripts/CreateWithStateSample.cs" />
+    <Compile Include="Assets/Scripts/TimerSample1.cs" />
+    <Compile Include="Assets/Scripts/FromEventSample.cs" />
+    <Compile Include="Assets/Scripts/FromCorotineSample.cs" />
+    <Compile Include="Assets/Scripts/ObserveStateMachineSample.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
