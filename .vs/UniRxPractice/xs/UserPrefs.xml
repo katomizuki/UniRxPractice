@@ -1,12 +1,15 @@
 ﻿<Properties StartupConfiguration="{FA6A0A64-4D52-2BC3-D61E-9AA7F07DBF96}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ObserveStateMachineSample.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ZipSample.cs">
     <Files>
-      <File FileName="Assets/Scripts/ObserveStateMachineSample.cs" Line="18" Column="1" />
+      <File FileName="Assets/Scripts/MergeSample.cs" Line="17" Column="30" />
+      <File FileName="Assets/Scripts/MergeSample2.cs" Line="13" Column="13" />
+      <File FileName="Assets/Scripts/ConcatSample.cs" Line="13" Column="43" />
+      <File FileName="Assets/Scripts/ZipSample.cs" Line="12" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a40e1413-54df-4293-a875-8f1940a8f741" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e98112e7-b087-4b67-bd00-2b3d437b3fdb" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
