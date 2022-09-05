@@ -387,6 +387,7 @@
 "Assets/Scripts/PageFeed.cs"
 "Assets/Scripts/PlayerTextureChanger.cs"
 "Assets/Scripts/PrintLogObserver.cs"
+"Assets/Scripts/Program.cs"
 "Assets/Scripts/ReactiveCollectionSample.cs"
 "Assets/Scripts/ReactiveDictionarySample.cs"
 "Assets/Scripts/ReactivePropertyOnInspectorWindow.cs"
