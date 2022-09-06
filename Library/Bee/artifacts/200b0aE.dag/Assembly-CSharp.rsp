@@ -370,6 +370,7 @@
 "Assets/Scripts/CreateSample.cs"
 "Assets/Scripts/CreateWithStateSample.cs"
 "Assets/Scripts/CurrentSubjectSample.cs"
+"Assets/Scripts/DateClass.cs"
 "Assets/Scripts/Dic.cs"
 "Assets/Scripts/EmptySample.cs"
 "Assets/Scripts/FromCorotineSample.cs"
